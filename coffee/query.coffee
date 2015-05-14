@@ -11,7 +11,7 @@ raf = window.requestAnimationFrame or
 context = undefined
 soundSource = undefined
 soundBuffer = undefined
-url = "/amen.mp3"
+url = "amen.mp3"
 
 
 
