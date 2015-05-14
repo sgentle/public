@@ -12,7 +12,7 @@
 
   soundBuffer = void 0;
 
-  url = "/amen.mp3";
+  url = "amen.mp3";
 
   Query = function() {
     var NUM_VERTS, a, angle, b, body, canvas, canvas2point, height, i, j, length, mass, r, space, verts, width, x;
